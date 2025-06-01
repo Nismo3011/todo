@@ -7,6 +7,6 @@ import org.springframework.stereotype.Repository;
 import com.example.todo.model.ToDo;
 
 @Repository
-public interface TodoRepository extends JpaRepository<ToDo, Long>{
+public interface ToDoRepository extends JpaRepository<ToDo, Long>{
 
 }

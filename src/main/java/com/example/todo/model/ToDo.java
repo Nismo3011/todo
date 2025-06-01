@@ -2,8 +2,6 @@ package com.example.todo.model;
 
 import java.time.LocalDate;
 
-import org.springframework.stereotype.Component;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
